@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="suiteTest" verbose="2" parallel="methods" thread-count="2">
+<test name ="testsuite">
+<!-- <parameter name ="Name" value = "Duck">
+</parameter> -->
+<classes>
+<class name = "testNG.ParallelTest">
+</class>
+</classes>
+</test>
+</suite>
+<!-- <groups>
+<run>
+<include name ="Moto">
+</include>
+<include name ="Vivo">
+</include>
+</run>
+</groups>
+<classes>
+<class name ="testNG.GroupingExample">
+</class>
+</classes>
+</test>
+</suite> -->
+
+<!-- <class name = "testNG.DependenciesManagement">
+</class>
+<class name = "testNG.SetPriorityExample">
+</class>
+<class name = "testNG.SkipTest">
+</class>
+<class name = "testNG.TestSuiteExample">
+</class>
+<class name = "testNG.TestNGExample">
+</class> -->
